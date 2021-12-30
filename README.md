@@ -1,4 +1,4 @@
 # photoshop-automated-print-layout
- JSX Script for PhotoShop that makes a printable file with 24 serial numbered coppies of a pinback design.
+ JSX Script for PhotoShop that makes a printable file with 24 serial numbered coppies of an image.  Printable file to be used for manufacturing pin back buttons.
  
- To use, open photoshop image, then... File -> Scripts -> Browse -> Select included .jsx file
+ To test, open photoshop image, then... File -> Scripts -> Browse -> Select included .jsx file
